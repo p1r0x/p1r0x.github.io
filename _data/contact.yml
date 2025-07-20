@@ -1,0 +1,17 @@
+#  The contact options.
+
+- type: github
+  icon: "fab fa-github"
+
+- type: twitter
+  icon: "fa-brands fa-x-twitter"
+  url: 'https://twitter.com/p1r0x'
+
+- type: email
+  icon: "fas fa-envelope"
+  noblank: true # open link in current tab
+  url: 'mailto:p1r0x.sec@gmail.com'
+
+- type: rss
+  icon: "fas fa-rss"
+  url: '/feed.xml'
